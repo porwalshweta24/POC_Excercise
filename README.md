@@ -46,3 +46,6 @@ and one that asserts the state of the screen when in an error state.
   - Retrofit : HTTP client library for REST API calls
   - ROOM : ORM mapping persistence library for local database connection support
   - SwipeRefreshLayout : Provides ability to pull down to refresh UI content
+  
+  Output :
+  https://github.com/porwalshweta24/POC_Excercise/tree/master/apk
