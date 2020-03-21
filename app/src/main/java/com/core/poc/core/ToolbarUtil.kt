@@ -29,7 +29,7 @@ import androidx.fragment.app.FragmentActivity
  * [ToolbarUtil] : Util class for [Toolbar] that calculates views this particular toolbar is handling
  * and manages for refreshing child views by adding and removing child views from it.
  *
- * @author Mitesh Vanaliya
+ * @author Shweta Porwal
  * @since 03/01/2018
  * @version 1.0.1
  *
