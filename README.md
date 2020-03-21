@@ -16,7 +16,7 @@ extraneous white-space etc. This means some rows will be larger than others.
 4. Implement a refresh function allowing the data & view to be updated
   - Used pull down to refresh.
 5. Should not block UI when loading the data from the json feed.
-6. Each row of the table look like the screenshots added.
+6. Each row of the table look like the screenshots added - https://github.com/porwalshweta24/POC_Excercise/tree/master/screenshots
 
 Coding patterns :
 
